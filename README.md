@@ -1,0 +1,2 @@
+Just pull the source code from bitbucket then run the spring boot
+project. There is a sample postman collection in the spring boot project you can use to test and also there is a swagger document where you can also run the APIs
